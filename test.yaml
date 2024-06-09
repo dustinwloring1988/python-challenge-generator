@@ -1,0 +1,70 @@
+- description: Write a function called 'reverse_string' that returns the reverse of
+    the input string `s`.
+  difficulty: medium
+  example: 'Example: reverse_string(''hello'') should return ''olleh''.'
+  solution: "def reverse_string(s):\n    return s[::-1]\n"
+  template: "def reverse_string(s):\n    # Write your code here\n    pass\n"
+  tests:
+  - expected: olleh
+    input: reverse_string('hello')
+  - expected: dlrow
+    input: reverse_string('world')
+  - expected: ''
+    input: reverse_string('')
+  title: Reverse String
+- description: Write a function called 'reverse_string' that returns the reverse of
+    the input string `s`.
+  difficulty: medium
+  example: 'Example: reverse_string(''hello'') should return ''olleh''.'
+  solution: "def reverse_string(s):\n    return s[::-1]\n"
+  template: "def reverse_string(s):\n    # Write your code here\n    pass\n"
+  tests:
+  - expected: olleh
+    input: reverse_string('hello')
+  - expected: dlrow
+    input: reverse_string('world')
+  - expected: ''
+    input: reverse_string('')
+  title: Reverse String
+- description: Write a function called 'reverse_string' that returns the reverse of
+    the input string `s`.
+  difficulty: medium
+  example: 'Example: reverse_string(''hello'') should return ''olleh''.'
+  solution: "def reverse_string(s):\n    return s[::-1]\n"
+  template: "def reverse_string(s):\n    # Write your code here\n    pass\n"
+  tests:
+  - expected: olleh
+    input: reverse_string('hello')
+  - expected: dlrow
+    input: reverse_string('world')
+  - expected: ''
+    input: reverse_string('')
+  title: Reverse String
+- description: Write a function called 'reverse_string' that returns the reverse of
+    the input string `s`.
+  difficulty: medium
+  example: 'Example: reverse_string(''hello'') should return ''olleh''.'
+  solution: "def reverse_string(s):\n    return s[::-1]\n"
+  template: "def reverse_string(s):\n    # Write your code here\n    pass\n"
+  tests:
+  - expected: olleh
+    input: reverse_string('hello')
+  - expected: dlrow
+    input: reverse_string('world')
+  - expected: ''
+    input: reverse_string('')
+  title: Reverse String
+- description: Write a function called 'reverse_string' that returns the reverse of
+    the input string `s`.
+  difficulty: medium
+  example: 'Example: reverse_string(''hello'') should return ''olleh''.'
+  solution: "def reverse_string(s):\n    return s[::-1]\n"
+  template: "def reverse_string(s):\n    # Write your code here\n    pass\n"
+  tests:
+  - expected: olleh
+    input: reverse_string('hello')
+  - expected: dlrow
+    input: reverse_string('world')
+  - expected: ''
+    input: reverse_string('')
+  title: Reverse String
